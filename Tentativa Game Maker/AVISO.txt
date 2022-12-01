@@ -1,0 +1,1 @@
+Esse não é um arquivo zip. Ao abri-lo, ele istalará o projeto no local desejado
